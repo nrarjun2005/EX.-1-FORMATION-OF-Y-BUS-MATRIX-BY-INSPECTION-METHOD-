@@ -79,4 +79,4 @@ OUTPUT:
 <img width="1911" height="1021" alt="image" src="https://github.com/user-attachments/assets/93a99985-1788-4a27-b572-d5f6d8ea7d08" />
 
 RESULT:
-//Thus,To develop a program to obtain bus admittance matrix for the given power system network by inspection method is done in matlab successfully and the output is obtained.
+##Thus,To develop a program to obtain bus admittance matrix for the given power system network by inspection method is done in matlab successfully and the output is obtained.
